@@ -1,4 +1,5 @@
 .flexContainer{
+    flex-direction: row-reverse;
     display: inline-flex;
     gap: 20px;
     right: 0;
