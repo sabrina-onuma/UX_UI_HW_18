@@ -1,11 +1,13 @@
 .flexContainer{
     display: flex;
     gap: 10px;
+
     
 }
 
 div.flexContainer{
-    flex: 33%;
+    flex: 1;
+    flex-wrap: wrap;
 }
 #cogIcon{
     height: 128px;
