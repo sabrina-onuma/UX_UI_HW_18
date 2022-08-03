@@ -2,10 +2,12 @@ body{
     min-height: 100%;
     font-family: 'Montserrat', sans-serif;
 }
-.inline-block { 
-    display: flex;
-    margin-right: auto;
-    padding: 6px 6px 6px 6px;
+.main{
+    margin-left: 200px;
+}
+
+#myRightnav{
+    float: right;
 }
 
 #logoImg {
@@ -18,17 +20,6 @@ body{
 
 ul.sidenav {
     width: 50%;
-}
-
-#myTopnav {
-    width: 73%;
-    padding: 1%;
-    text-align: right;
-    height: auto;
-    width: 1400px;
-    position: fixed;
-    top: 0;
-    right: 0;
 }
 
 #mySidenav {
