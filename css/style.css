@@ -6,7 +6,6 @@ body{
     display: flex;
     margin-right: auto;
     padding: 6px 6px 6px 6px;
-    font-family: 'Montserrat', sans-serif;
 }
 
 #logoImg {
@@ -15,9 +14,6 @@ body{
     text-align: center;
     top: 0;
     left: 0;
-    width: 73%;
-    padding: 1%;
-    
 }
 
 ul.sidenav {
