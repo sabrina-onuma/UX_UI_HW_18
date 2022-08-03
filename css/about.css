@@ -1,5 +1,6 @@
 .flexContainer{
     display: flex;
+    flex-direction: row;
     
 }
 
@@ -8,4 +9,8 @@ div.flexContainer{
     margin: auto;
     padding: 10px;
 }
+#cogIcon{
+    height: 150px;
+}
+
 
