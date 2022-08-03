@@ -1,15 +1,15 @@
 .flexContainer{
     display: flex;
+    gap: 10px;
     
 }
 
 div.flexContainer{
     width: 33%;
     margin: auto;
-    padding: 10px;
 }
 #cogIcon{
-    height: 150px;
+    height: 175px;
 }
 
 
