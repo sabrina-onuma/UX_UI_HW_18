@@ -1,6 +1,8 @@
 .flexContainer{
     display: flex;
     gap: 10px;
+    block-size: 1500px;
+    right: 0;
     align-items: center;
     justify-content: center;
     
