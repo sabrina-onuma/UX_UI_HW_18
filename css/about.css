@@ -6,7 +6,10 @@
     justify-content: right;
     
 }
-
+.mySkills{
+    width: 1500px;
+    float: right;
+}
 div.flexContainer{
     flex: 1;
     flex-wrap: wrap;

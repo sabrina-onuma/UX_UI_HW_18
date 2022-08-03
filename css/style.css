@@ -5,9 +5,13 @@ body{
 .main{
     margin-left: 200px;
 }
-
+ul {
+    list-style: none;
+}
 #myRightnav{
     float: right;
+    padding: 6px 18px 6px 18px;
+    text-decoration: none;
 }
 
 #logoImg {
