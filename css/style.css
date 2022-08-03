@@ -3,8 +3,8 @@ body{
     font-family: 'Montserrat', sans-serif;
 }
 .inline-block { 
-    display: inline;
-    text-align: right;
+    display: flex;
+    margin-right: auto;
     padding: 6px 6px 6px 6px;
     font-family: 'Montserrat', sans-serif;
 }
@@ -12,14 +12,12 @@ body{
 #logoImg {
     height: 100px;
     padding: 1%;
-    /*text-align: center;
+    text-align: center;
     top: 0;
     left: 0;
-    display: flex;
     width: 73%;
     padding: 1%;
-    /*text-align: right;*/
-    margin-left: auto;
+    
 }
 
 ul.sidenav {
@@ -27,17 +25,14 @@ ul.sidenav {
 }
 
 #myTopnav {
-    display: flex;
-    /*width: 73%;*/
+    width: 73%;
     padding: 1%;
-    /*text-align: right;*/
-    margin-right: auto;
-    /*height: auto;
+    text-align: right;
+    height: auto;
     width: 1400px;
     position: fixed;
     top: 0;
     right: 0;
-    text-align: right;*/
 }
 
 #mySidenav {
