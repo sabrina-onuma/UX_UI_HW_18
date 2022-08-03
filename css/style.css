@@ -30,12 +30,17 @@ ul.sidenav {
 }
 
 #myTopnav {
-    height: auto;
+    display: flex;
+    /*width: 73%;*/
+    padding: 1%;
+    /*text-align: right;*/
+    margin-left: auto;
+    /*height: auto;
     width: 1400px;
     position: fixed;
     top: 0;
     right: 0;
-    text-align: right;
+    text-align: right;*/
 }
 
 #mySidenav {
