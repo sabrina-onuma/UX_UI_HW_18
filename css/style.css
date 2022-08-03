@@ -12,14 +12,11 @@ body{
 #logoImg {
     height: 100px;
     padding: 1%;
-    text-align: center;
+    /*text-align: center;
     top: 0;
     left: 0;
-}
-
-nav > img {
     display: flex;
-    /*width: 73%;*/
+    width: 73%;
     padding: 1%;
     /*text-align: right;*/
     margin-left: auto;
