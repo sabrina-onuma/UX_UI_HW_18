@@ -1,9 +1,9 @@
 .flexContainer{
     display: inline-flex;
-    gap: 10px;
+    gap: 20px;
     right: 0;
     align-items: center;
-    justify-content: right;
+    justify-content: center;
     
 }
 .mySkills{
