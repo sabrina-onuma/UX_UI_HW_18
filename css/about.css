@@ -5,8 +5,7 @@
 }
 
 div.flexContainer{
-    width: 33%;
-    margin: auto;
+    flex: 33%;
 }
 #cogIcon{
     height: 128px;
