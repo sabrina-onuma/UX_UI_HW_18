@@ -10,6 +10,9 @@
     width: 75%;
     float: right;
 }
+.flexContainer > div{ 
+    flex: 1;
+}
 div.flexContainer{
     flex: 1;
     flex-wrap: wrap;
