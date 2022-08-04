@@ -1,6 +1,6 @@
 .workGrid{
     display: grid;
-    grid-template-areas: "area1 area2 area3 area4";
+    grid-template-areas: "area1 area2";
     grid-template-rows: auto;
     grid-template-columns: auto;
     column-gap: 5%;
