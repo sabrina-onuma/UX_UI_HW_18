@@ -38,7 +38,7 @@
         width:100%;
     }
     .workGrid{
-        grid-template-columns: 75%;
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
         row-gap: 10px;
         grid-template-areas:
         "title"
@@ -46,7 +46,7 @@
         "information"
         "image" 
         "information"
-        "button"
+        "button";
 
     }
     #projTitle{
