@@ -1,3 +1,7 @@
 .workGrid{
     display: grid;
+    grid-template-areas: "MM Chum";
+    grid-template-rows: auto;
+    grid-template-columns: auto;
 }
+
