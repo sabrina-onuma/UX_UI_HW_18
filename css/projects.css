@@ -12,11 +12,7 @@
 #projTitle{
     grid-column: 1/3;
 }
-#MM {
-    justify-self: center;
-    width: 200px;
-}
-#chum{
+.projImg{
     justify-self: center;
     width: 200px;
 }
