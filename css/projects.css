@@ -1,7 +1,18 @@
 .workGrid{
     display: grid;
-    grid-template-areas: "MM Chum";
+    grid-template-areas: "area1 area2";
     grid-template-rows: auto;
-    grid-template-columns: auto;
+    grid-template-columns: auto auto;
+    column-gap: 5%;
 }
 
+.myWork{
+    width: 84%;
+    float: right;
+}
+#projTitle{
+    grid-area: Title;
+}
+#mm {
+    width: 33%;
+}
