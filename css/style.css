@@ -25,15 +25,9 @@ li {
     margin-left: auto;
     margin-right: auto;
     height: 100px;
-    padding: 1%;
-    text-align: center;
-    /*top: 0;
-    left: 0;*/
-
 }
 
 #mySidenav {
-    /*background-color: white;*/
     height: 100%;
     width: 16%;
     position: fixed;
@@ -44,7 +38,6 @@ li {
 }
 
 .sidenav{
-    background-color: blue;
     padding: 6px 6px 6px 6px;
     font-size: 16px;
     display: block;
