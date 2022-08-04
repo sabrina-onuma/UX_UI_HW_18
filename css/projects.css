@@ -37,9 +37,11 @@
     .flexContainer > div{
         width: 100%;
     }
-
+    .myWork{
+        width:100%;
+    }
     .workGrid{
-        grid-template-columns: 100%;
+        grid-template-columns: 75%;
         row-gap: 10px;
         grid-template-areas:
         "title"
