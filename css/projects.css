@@ -2,6 +2,8 @@
     margin-top: 100px;
     display: grid;
     grid-template-columns: auto auto;
+    grid-template-columns: 'img info';
+    grid-template-rows: 'title mentor nonp allbutton';
     row-gap: 5%;
 }
 
