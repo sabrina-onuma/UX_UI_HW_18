@@ -57,7 +57,9 @@ li {
 }
 
 footer{
-    padding: 60px;
+    padding-top: 60px;
+    padding-left: 60px;
+    padding-bottom: 5px;
     position: fixed;
     text-align: left;
     bottom: 0;
