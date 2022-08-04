@@ -39,8 +39,8 @@
     }
 
     .workGrid{
-        grid-template-rows: 150px;
         grid-template-columns: 100%;
+        row-gap: 10px;
         grid-template-areas:
         "title"
         "image" 
@@ -48,6 +48,7 @@
         "image" 
         "information"
         "button"
+
     }
 
     
