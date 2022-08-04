@@ -57,8 +57,10 @@ li {
 }
 
 footer{
-    position: fixed;
+    position: sticky;
     text-align: left;
     bottom: 0;
+    width: 100%;
+    height: 40px;
     font-size: x-small;
 }
