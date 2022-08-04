@@ -29,6 +29,7 @@ li {
 }
 
 #mySidenav {
+    background-color: white;
     height: 100%;
     width: 200px;
     position: fixed;
@@ -39,6 +40,7 @@ li {
 }
 
 .sidenav{
+    background-color: white;
     padding: 6px 6px 6px 6px;
     font-size: 16px;
     display: block;
