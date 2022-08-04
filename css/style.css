@@ -52,7 +52,8 @@ li {
 #profileImg {
     height: 350px;
     float: left;
-    padding: 10%;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 
 footer{
