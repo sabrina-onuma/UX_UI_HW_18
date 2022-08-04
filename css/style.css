@@ -63,7 +63,7 @@ li {
 }
 
 footer{
-    position: sticky;
+    position: fixed;
     text-align: left;
     bottom: 0;
     width: 100%;
