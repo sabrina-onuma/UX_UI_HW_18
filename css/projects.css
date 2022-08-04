@@ -1,7 +1,8 @@
 .workGrid{
+    margin-top: 100px;
     display: grid;
     grid-template-columns: auto auto;
-    column-gap: 5%;
+    row-gap: 5%;
 }
 
 .myWork{
@@ -12,8 +13,10 @@
     grid-column: 1/3;
 }
 #MM {
+    justify-self: center;
     width: 200px;
 }
 #chum{
+    justify-self: center;
     width: 200px;
 }
