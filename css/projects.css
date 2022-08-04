@@ -8,7 +8,9 @@
     width: 75%;
     float: right;
 }
-
+#projTitle{
+    grid-column: 1/3;
+}
 #MM {
     width: 200px;
 }
