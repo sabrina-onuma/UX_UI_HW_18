@@ -57,7 +57,7 @@ li {
 }
 
 footer{
-    position: absolute;
+    position: fixed;
     text-align: left;
     bottom: 0;
     font-size: x-small;
