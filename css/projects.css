@@ -8,7 +8,7 @@
     "image information"
     "image information"
     "button button";
-    row-gap: 5% 5% 10%;
+    grid-row-gap: 5% 5% 10%;
 }
 
 .myWork{
@@ -27,6 +27,7 @@
 .workGrid>.projImg{ 
     
     display: flex;
+    align-items: center;
     justify-content: center;
 }
 
