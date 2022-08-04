@@ -22,7 +22,8 @@
 }
 .workGrid>.projImg>img{ 
     width: 200px;
-    place-self: center;
+    display: grid;
+    align-items: center;
 }
 
 
