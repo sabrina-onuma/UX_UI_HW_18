@@ -20,7 +20,7 @@
 #viewButtom{
     grid-column: 1/3;
 }
-.workGrid>.projImg>img{ 
+.workGrid>.projImg{ 
     width: 200px;
     display: flex;
     align-items: center;
