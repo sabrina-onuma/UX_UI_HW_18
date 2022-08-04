@@ -8,7 +8,7 @@
     "image information"
     "image information"
     "button button";
-    grid-row-gap: 5% 5% 10%;
+    row-gap: 10%;
 }
 
 .myWork{
