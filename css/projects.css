@@ -39,8 +39,8 @@
     }
 
     .workGrid{
-        grid-template-rows: 300px 300px 300px 300px 300px 20px;
-        grid-template-columns: 1fr;
+        grid-template-rows: 150px;
+        grid-template-columns: 100%;
         grid-template-areas:
         "title"
         "image" 
