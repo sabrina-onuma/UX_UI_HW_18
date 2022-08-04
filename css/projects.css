@@ -34,9 +34,6 @@
 }
 @media only screen and (max-width: 600) {
 
-    .flexContainer > div{
-        width: 100%;
-    }
     .myWork{
         width:100%;
     }
@@ -52,7 +49,9 @@
         "button"
 
     }
-
+    #projTitle{
+        grid-column: 1;
+    }
     
 }
 

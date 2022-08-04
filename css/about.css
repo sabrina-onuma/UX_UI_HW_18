@@ -25,20 +25,6 @@ div.flexContainer{
     .flexContainer > div{
         width: 100%;
     }
-
-    .workGrid{
-        grid-template-rows: 300px 300px 300px 300px 300px 20px;
-        grid-template-columns: 1fr;
-        grid-template-areas:
-        "title"
-        "image" 
-        "information"
-        "image" 
-        "information"
-        "button"
-    }
-
-    
 }
 
 
